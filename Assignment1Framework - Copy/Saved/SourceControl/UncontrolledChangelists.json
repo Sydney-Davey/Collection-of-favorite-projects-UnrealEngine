@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/MyContent/Objects/BP_Target.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/HJ/XC6XZGKX63PZOZRBUUSUX8.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/FirstPerson/Blueprints/ChildOfFirstPersonGameMode.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JE/BRF8JS0B3HASZIB99DCSJJ.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/LR/ZCMMBBUFHURF0CH6RZ0MD6.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/NQ/TBTFGGIZX14XA45548HTEY.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/GG/S5OZG2O6M3UGBPOHFEW8Q8.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/MyContent/ChildOfFirstPersonGameMode.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/MyContent/GameModes/BP_GameModeOne.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/FirstPerson/Blueprints/BP_FirstPersonChildGameMode.uasset",
+				"C:/Users/sydne/OneDrive/Desktop/Desktop/Anamation lass/Assignment1Framework/Content/MyContent/BP_Target.uasset"
+			]
+		}
+	]
+}
